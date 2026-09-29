@@ -13,6 +13,7 @@
 
 - 🎓 Final-year engineering student at **INPT** (Rabat, Morocco), graduating in 2027
 - ☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03)
+- 🎮 President of the **GameLab Club** at INPT
 - 🔍 Looking for a **final-year internship (PFE)** in DevOps, starting early 2027
 - 🌍 English & French
 
@@ -33,10 +34,12 @@
 
 ### 🚀 Featured Projects
 
-**🔐 Software Engineering Platform on AWS**
+**🔐 [Software Engineering Platform on AWS](https://github.com/tahaelidrissi/three-tier-devsecops-project)**
+
 Three-tier web application on AWS EKS: infrastructure provisioned with Terraform, CI/CD with Jenkins, GitOps delivery with ArgoCD, monitoring with Prometheus & Grafana.
 
-**🎮 GameLab — Fullstack Web Application**
+**🎮 [GameLab — Fullstack Web Application](https://github.com/tahaelidrissi/GameLab)**
+
 Event and community platform for the INPT GameLab Club: FastAPI + Next.js, JWT authentication, SQLite, Docker, automated testing and deployment with GitHub Actions.
 
 ---
@@ -76,4 +79,4 @@ Event and community platform for the INPT GameLab Club: FastAPI + Next.js, JWT a
 ### 📫 Contact
 
 - **Email:** [tahaidrissi0525@gmail.com](mailto:tahaidrissi0525@gmail.com)
-- **LinkedIn:** [Taha Ibourk-El-Idrissi](https://www.linkedin.com/in/taha-ibourk-el-idrissi-557a67257/)
+- **LinkedIn:** [Taha Ibourk-El-Idrissi](https://www.linkedin.com/in/YOUR-LINKEDIN)

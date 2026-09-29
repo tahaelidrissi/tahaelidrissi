@@ -21,7 +21,8 @@
 ### 💼 Experience
 
 **DevOps Engineer Intern @ FeverTokens** (Paris) · *June 2026 – Present*
-- GitOps workflow with ArgoCD and a Kubernetes-hosted runner to execute GitHub Actions pipelines internally
+- Self-hosted GitHub Actions runners on Kubernetes (Actions Runner Controller, Helm)
+- GitOps workflow with ArgoCD so GitHub Actions pipelines run internally on the cluster
 - AI agents that automate GitHub management tasks
 - Python automation tools and deployment workflows
 
@@ -35,7 +36,7 @@
 
 **🔐 [Software Engineering Platform on AWS](https://github.com/tahaelidrissi/three-tier-devsecops-project)**
 
-Three-tier web application on AWS EKS: infrastructure provisioned with Terraform, CI/CD with Jenkins, GitOps delivery with ArgoCD, monitoring with Prometheus & Grafana.
+Three-tier web application on AWS EKS: infrastructure provisioned with Terraform, CI/CD with Jenkins including code quality and vulnerability scanning (SonarQube, Trivy), GitOps delivery with ArgoCD, monitoring with Prometheus & Grafana.
 
 **🎮 [GameLab — Fullstack Web Application](https://github.com/tahaelidrissi/GameLab)**
 
@@ -51,12 +52,15 @@ Event and community platform for the INPT GameLab Club: FastAPI + Next.js, JWT a
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### 🔄 CI/CD
+#### 🔄 CI/CD & DevSecOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasecurity&logoColor=white)
 
 #### 📊 Monitoring
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)

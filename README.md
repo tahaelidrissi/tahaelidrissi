@@ -13,7 +13,6 @@
 
 - 🎓 Final-year engineering student at **INPT** (Rabat, Morocco), graduating in 2027
 - ☁️ **AWS Certified Solutions Architect – Associate** (SAA-C03)
-- 🎮 President of the **GameLab Club** at INPT
 - 🔍 Looking for a **final-year internship (PFE)** in DevOps, starting early 2027
 - 🌍 English & French
 
@@ -67,7 +66,11 @@ Event and community platform for the INPT GameLab Club: FastAPI + Next.js, JWT a
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+**Concepts:** REST APIs · Microservices · GitOps · Infrastructure as Code · CI/CD
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)

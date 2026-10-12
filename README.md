@@ -34,6 +34,10 @@
 
 ### 🚀 Featured Projects
 
+**🧭 [Internal Developer Platform with Backstage](https://github.com/taha-idp-lab/idp-platform)** · *in progress*
+
+Self-service platform that takes a developer from a form to a running, monitored microservice in **under 4 minutes**. A Backstage template generates the repo (FastAPI, tests, Dockerfile, Helm chart, CI with Trivy scan), opens a GitOps PR, and ArgoCD deploys it to Kubernetes; every push is then deployed automatically. Each service gets one Backstage page with its pods, CI runs, ArgoCD status, docs and a Grafana dashboard — all through read-only, least-privilege integrations.
+
 **🔐 [Software Engineering Platform on AWS](https://github.com/tahaelidrissi/three-tier-devsecops-project)**
 
 Three-tier web application on AWS EKS: infrastructure provisioned with Terraform, CI/CD with Jenkins including code quality and vulnerability scanning (SonarQube, Trivy), GitOps delivery with ArgoCD, monitoring with Prometheus & Grafana.
@@ -53,6 +57,7 @@ Event and community platform for the INPT GameLab Club: FastAPI + Next.js, JWT a
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white)
+![Backstage](https://img.shields.io/badge/Backstage-9BF0E1?style=flat&logo=backstage&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -74,7 +79,7 @@ Event and community platform for the INPT GameLab Club: FastAPI + Next.js, JWT a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 
-**Concepts:** REST APIs · Microservices · GitOps · Infrastructure as Code · CI/CD
+**Concepts:** REST APIs · Microservices · GitOps · Infrastructure as Code · CI/CD · Platform Engineering
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
